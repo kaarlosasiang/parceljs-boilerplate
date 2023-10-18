@@ -1,7 +1,7 @@
 
 # ParcelJS Boilerplate
 
-🚀 Kickstart your web development journey with this boilerplate, a lightweight and feature-rich Parcel JS Boilerplate. Empowering developers with a seamless development experience, this boilerplate is designed to eliminate configuration headaches and accelerate your project setup.
+🚀 Kickstart your web development journey with this boilerplate, a lightweight and feature-rich Parcel JS Boilerplate powered by Tailwind CSS. Empowering developers with a seamless development experience, this boilerplate is designed to eliminate configuration headaches and accelerate your project setup.
 
 
 ## Features
