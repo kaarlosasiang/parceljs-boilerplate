@@ -32,6 +32,3 @@ Build for Production
 ```bash
   npm run build
 ```
-## Author
-
-- [@kaarlosasiang](https://github.com/kaarlosasiang)
