@@ -25,8 +25,9 @@ Install Dependencies
 
 Start Developement Server (port 3000)
 ```bash
-  # The start script cleans up previous build directories (development and .parcel-cache), then uses Parcel to bundle HTML files from the public directory.
-  npm start
+  # The start script cleans up previous build directories (development and .parcel-cache),
+  # then uses Parcel to bundle HTML files from the public directory.
+  npm run start
 ```
 
 Build for Production
