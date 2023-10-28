@@ -1,3 +1,4 @@
 node_modules
 .parcel-cache
 development
+.DS_STORE
